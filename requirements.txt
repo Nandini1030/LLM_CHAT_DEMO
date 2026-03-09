@@ -1,0 +1,6 @@
+#pip install streamlit groq python-dotenv
+
+
+groq
+streamlit
+vscode
